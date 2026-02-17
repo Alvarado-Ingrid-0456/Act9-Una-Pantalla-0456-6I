@@ -17,7 +17,7 @@ class MiCelular extends StatelessWidget {
 class PantallaInicio extends StatelessWidget {
 
   final String fondoUrl =
-      "https://raw.githubusercontent.com/Alvarado-Ingrid-0456/Imagenes-para-Flutter-6to-I-Fecha-11-Feb-2026/refs/heads/main/ajolote.png";
+      "https://raw.githubusercontent.com/Alvarado-Ingrid-0456/Imagenes-para-Flutter-6to-I-Fecha-11-Feb-2026/refs/heads/main/fondo.jpg";
 
   final String logoCometaUrl =
       "https://raw.githubusercontent.com/Alvarado-Ingrid-0456/Imagenes-para-Flutter-6to-I-Fecha-11-Feb-2026/refs/heads/main/logo.jpg";
